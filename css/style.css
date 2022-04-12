@@ -6,7 +6,7 @@ body{
     height: 90vh;
     width: 100%;
     
-    background: linear-gradient( to right, rgb(40, 43, 43), rgba(158, 112, 112, 0.5) ) , url("https://github.com/Amitgithub77/mytemplate/blob/master/img/front.jpg");
+    background: linear-gradient( to right, rgb(40, 43, 43), rgba(158, 112, 112, 0.5) ) , url(https://github.com/Amitgithub77/mytemplate/blob/master/img/front.jpg);
     background-size: cover;
     color: white;
 }
