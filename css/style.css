@@ -1,0 +1,47 @@
+body{
+    font-family: 'Crimson Text', serif;
+}
+
+.header{
+    height: 90vh;
+    width: 100%;
+    
+    background: linear-gradient( to right, rgb(40, 43, 43), rgba(158, 112, 112, 0.5) ) , url(../img/front.jpg);
+    background-size: cover;
+    color: white;
+}
+
+.h-100{
+    height: 100%;
+    width: 100%;
+}
+
+.btn{
+    border-radius: 10rem ! Important;
+    padding: 0.25rem 1.25rem ! Important;
+}
+
+.message{
+    background-image: linear-gradient(to top, #181450 0%, #087d83 100%);
+}
+
+.message1{
+    background-image: linear-gradient(to top, #4b77f1 0%, #164583 100%);
+}
+
+.messageFooter{
+    background-image: linear-gradient(to top, #181b24 0%, #030405 100%);
+}
+
+.messageService{
+    background-image: linear-gradient(to top, #4e0316 0%, #570b08 100%);
+}
+
+.micon{
+    font-size: 50px;
+    padding: 20px;
+}
+
+.ico{
+    font-size: 30px;
+}
